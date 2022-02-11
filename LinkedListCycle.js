@@ -14,6 +14,6 @@
     var slow = head;
     var fast = head;
     while (slow && fast) {
-        
+        slow = slow.next;
       }
   };
