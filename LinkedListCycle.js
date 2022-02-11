@@ -16,5 +16,6 @@
     while (slow && fast) {
         slow = slow.next;
         fast = fast.next ? fast.next.next : undefined;
+        if (slow === fast) return true;
       }
   };
