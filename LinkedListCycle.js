@@ -18,4 +18,5 @@
         fast = fast.next ? fast.next.next : undefined;
         if (slow === fast) return true;
       }
+      return false;
   };
