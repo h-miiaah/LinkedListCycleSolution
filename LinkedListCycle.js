@@ -27,6 +27,7 @@
 
   - Initialize two pointers slow and fast.
   - Traverse the linked list until either slow or fast becomes null.
+  - If either of the pointers becomes null, we return false.
   
 
   */
