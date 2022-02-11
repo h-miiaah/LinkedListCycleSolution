@@ -12,4 +12,5 @@
  */
  var hasCycle = function(head) {
     var slow = head;
+    var fast = head;
   };
