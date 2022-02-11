@@ -11,5 +11,5 @@
  * @return {boolean}
  */
  var hasCycle = function(head) {
-    
+    var slow = head;
   };
