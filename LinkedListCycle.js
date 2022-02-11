@@ -25,6 +25,7 @@
 
   /*
 
+  - Initialize two pointers slow and fast.
   
 
   */
