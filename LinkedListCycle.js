@@ -26,6 +26,7 @@
   /*
 
   - Initialize two pointers slow and fast.
+  - Traverse the linked list until either slow or fast becomes null.
   
 
   */
