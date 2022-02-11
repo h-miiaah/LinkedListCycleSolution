@@ -29,6 +29,7 @@
   - Traverse the linked list until either slow or fast becomes null.
   - If either of the pointers becomes null, we return false.
   - If we reach this point, it means that we have a cycle.
+  - Set slow to head and fast to head.next.
   
 
   */
