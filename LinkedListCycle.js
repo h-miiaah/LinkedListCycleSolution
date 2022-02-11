@@ -13,4 +13,7 @@
  var hasCycle = function(head) {
     var slow = head;
     var fast = head;
+    while (slow && fast) {
+        
+      }
   };
